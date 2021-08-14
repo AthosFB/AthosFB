@@ -2,13 +2,17 @@
 
  - Iniciante:
  - 9º Ano / 14 anos
- <ol>
-     <li><a href="https://www.python.org" target="_blank" rel="external">Python🐍</a>
-     <li><a href="https://www.mysql.com" target="_blank" rel="external">MySQL💸🎲</a>
-     <li><a href="https://code.visualstudio.com" target="_blank" rel="external">HTML5💻</a>
-     <li><a href="https://code.visualstudio.com" target="_blank" rel="external">CSS3💻</a>
-     <li><a href="https://nodejs.org/en/" target="_blank" rel="external">JavaScript💻</a>
- </ol>
+ - Meta: Full-Stack
+ <hr>
+ <ul type="square">
+     <p>
+     <li><a href="https://www.python.org" target="_blank" rel="external">Python🐍</a>     
+     <li><a href="https://www.mysql.com" target="_blank" rel="external">MySQL💸🎲</a> 
+     <li><a href="https://code.visualstudio.com" target="_blank" rel="external">HTML5💻</a>  
+     <li><a href="https://code.visualstudio.com" target="_blank" rel="external">CSS3💻</a>   
+     <li><a href="https://nodejs.org/en/" target="_blank" rel="external">JavaScript💻</a>    
+     </p>
+ </ul>
  <br>
  <hr>
  <div>
