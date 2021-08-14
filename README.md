@@ -1,7 +1,7 @@
 ## Bem Vindo Ao Meu Perfil!
  - Iniciante:
  - Python🐍 - MySQL💸🎲 - HTML5💻 - CSS3💻 - JavaScript💻
- - 9º Ano / 14y
+ - 9º Ano / 14 anos
 
  <div>
   <a href="https://github.com/AthosFB">
