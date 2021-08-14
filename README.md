@@ -3,11 +3,11 @@
  - Iniciante:
  - 9º Ano / 14 anos
  <ol>
-     <li>Python🐍
-     <li>MySQL💸🎲
-     <li>HTML5💻
-     <li>CSS3💻
-     <li>JavaScript💻
+     <li><a href="https://www.python.org" target="_blank" rel="external">Python🐍</a>
+     <li><a href="https://www.mysql.com" target="_blank" rel="external">MySQL💸🎲</a>
+     <li><a href="https://code.visualstudio.com" target="_blank" rel="external">HTML5💻</a>
+     <li><a href="https://code.visualstudio.com" target="_blank" rel="external">CSS3💻</a>
+     <li><a href="https://nodejs.org/en/" target="_blank" rel="external">JavaScript💻</a>
  </ol>
  <br>
  <hr>
