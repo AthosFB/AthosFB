@@ -18,8 +18,13 @@
  <div>
   <a href="https://github.com/AthosFB">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AthosFB&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthosFB&layout=compact&langs_count=7&theme=white"/>
+ <a href="https://github.com/AthosFB/" >
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthosFB&theme=white&hide_langs_below=1"/>
+</a>
+
 </div>
+ 
+ 
  
 <hr>
 <h2> Conhecimentos (Alguns Aprendendo) </h2>
@@ -47,3 +52,4 @@
   <a href="https://www.instagram.com/athosfavaron/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
  
 </div>
+ 
