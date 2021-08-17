@@ -1,6 +1,8 @@
-## Bem Vindo Ao Meu Perfil!
+# Bem Vindo Ao Meu Perfil!
 
-#### Da uma Olhada Nos Meus projetos!
+### Da uma Olhada Nos Meus projetos!
+
+<hr>
 
  - Iniciante:
  - 9º Ano / 14 anos
