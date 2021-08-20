@@ -27,13 +27,14 @@
  
  <hr>
  
- ## [Crie Um Perfil Igual o Meu!](https://github.com/AthosFB/README.md-Creator/tree/main/files/read-creator)
+ ## [create a profile like mine!](https://github.com/AthosFB/README.md-Creator/tree/main/files/read-creator)
+ ### [Crie Um Perfil Como o Meu!](https://github.com/AthosFB/README.md-Creator/tree/main/files/read-creator)
  
  ![themes](https://user-images.githubusercontent.com/80980718/130240742-64ca568a-dbb1-4cec-9247-d35d96c98cf8.gif)
  [pt-br](https://github.com/AthosFB/README.md-Creator/tree/main/files/read-creator/Português) | [en](https://github.com/AthosFB/README.md-Creator/tree/main/files/read-creator/English)
-  - Fácil e Rapido!
-  - Sem Comandos
-  - Apenas Colocar as Informações E o script Faz tudo Por Você!
+  - Fácil e Rapido! / Easy and fast!
+  - Sem Comandos / No Commands
+  - Apenas Colocar as Informações E o script Faz tudo Por Você! / Just put in the information and the script does it all for you!
  
 <hr>
 <h2> Conhecimentos (Alguns Aprendendo) </h2>
