@@ -5,7 +5,7 @@
 <hr>
 
  - Iniciante:
- - 9º Ano / 14 anos
+ - Estudando 📚
  - Meta: Full-Stack
  <hr>
  <ul type="square">
@@ -62,9 +62,6 @@
 </div>
  <hr>
  
- <h1>Rede(s) Social(is)</h1>
-<div> 
-  <a href="https://www.instagram.com/athosfavaron/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
  
  <h1>Visitas!</h1>
  
