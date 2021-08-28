@@ -42,6 +42,11 @@
  [Clique Aqui!](https://athosfb.github.io/All-The-Projects/)
  
 <hr>
+ 
+ [Vai Na Minha Outra Conta!](https://github.com/Conta-Teste-AthosFB)
+ 
+<hr>
+
 <h2> Conhecimentos (Alguns Aprendendo) </h2>
  
 <div style="display: inline_block"><br>
